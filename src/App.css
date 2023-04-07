@@ -1,0 +1,15 @@
+.App{
+  position: absolute;
+  top: 70px;
+}
+thead, tr, th,
+tbody, tr, td {
+  line-height: 1;
+  padding: 15px 15px;
+}
+thead, tr, td {
+      border-color: #756d6d;
+      border-style: solid;
+      border-width: 1px 0px;
+      background-color: #ffffff;
+}
